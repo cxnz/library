@@ -8,7 +8,7 @@ in a serialized manner in browser's local storage by using
 JSON.stringify(yourDataStructure) and getting it back from the storage 
 as your original data structure using JSON.parse(yourDataStructure).
 
-# [CLICK HERE TO VIEW](https://cxnz.github.io/library/)
+# [CLICK HERE TO VIEW](https://cxnzensei.github.io/library/)
 
 User can :
 1. Add book data,
